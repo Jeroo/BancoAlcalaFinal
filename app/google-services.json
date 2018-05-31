@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "640835347419",
+    "firebase_url": "https://bancoalcaladb.firebaseio.com",
+    "project_id": "bancoalcaladb",
+    "storage_bucket": "bancoalcaladb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640835347419:android:a62d628d2252e20d",
+        "android_client_info": {
+          "package_name": "trabajofinal.alcala.salvador.com.bancoalcala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640835347419-hbka4t8qlpikirhbev41i18f35o6e4et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trabajofinal.alcala.salvador.com.bancoalcala",
+            "certificate_hash": "707ae695e9424fbc4d6f66cea95a075b9c22516f"
+          }
+        },
+        {
+          "client_id": "640835347419-m5qg8e331ikjkffioc4v08036mp3lgo0.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "640835347419-m5qg8e331ikjkffioc4v08036mp3lgo0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0CfcodaRFmhV6wmH4_HwTEtPVemALJ5A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640835347419-m5qg8e331ikjkffioc4v08036mp3lgo0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

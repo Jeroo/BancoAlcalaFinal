@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Banco Alcala</string>
+    <string name="alta_cuenta">Alta Cuenta</string>
+    <string name="acceder">¿Ya eres usuario? Iniciar sesión</string>
+    <string name="numero_cuenta">Numero Cuenta</string>
+    <string name="numero_de_cuenta">Numero de Cuenta</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="Login">Login</string>
+    <string name="ingresos_de_efectivo">Ingresos de Efectivo</string>
+    <string name="retirada_de_efectivo">Retirada de Efectivo</string>
+    <string name="transferencia">Transferencia</string>
+    <string name="recarga_telef_nica">Recarga Telefónica</string>
+    <string name="movimiento">Movimiento</string>
+    <string name="saldo">Saldo</string>
+    <string name="indique_la_cantidad_a_ingresar">Indique la cantidad a ingresar</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="indique_la_cantidad_a_retirar">Indique la cantidad a retirar</string>
+    <string name="retirar_de_la_cuenta">Retirar de la cuenta</string>
+    <string name="transferir">Transferir</string>
+</resources>

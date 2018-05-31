@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@drawable/bg"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imglogo"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="28dp"
+            android:cropToPadding="false"
+            android:scaleType="fitCenter"
+            app:srcCompat="@drawable/logobancoalcala" />
+
+        <Button
+            android:id="@+id/btnIngreso"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/ingresos_de_efectivo" />
+
+        <Button
+            android:id="@+id/btnRetirar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/retirada_de_efectivo" />
+
+        <Button
+            android:id="@+id/btnTransferencia"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/transferencia" />
+
+        <Button
+            android:id="@+id/btnRecargaTelefonica"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/recarga_telef_nica" />
+
+        <Button
+            android:id="@+id/btnMovimientos"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/movimiento" />
+
+        <Button
+            android:id="@+id/btnSaldo"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/saldo" />
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>
